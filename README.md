@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ebru</h1>
 <h3 align="center">I am self-studying to become an iOS developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebru-baris&label=Profile%20views&color=0e75b6&style=flat" alt="ebru-baris" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ebru_baris_" target="blank"><img src="https://img.shields.io/twitter/follow/ebru_baris_?logo=twitter&style=for-the-badge" alt="ebru_baris_" /></a> </p>
-
 - 🌱 I’m currently learning **Swift**
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ebru-baris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebru-baris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +18,7 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebru-baris&" alt="ebru-baris" /></p>
+
+
+
+
